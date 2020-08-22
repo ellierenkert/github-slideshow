@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Why is all the rum gone?
 Use the left arrow to go back!
